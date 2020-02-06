@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShowMe</string>
+    <string name="USER_INFO">Profile</string>
+    <string name="full_name">%1s %2s</string>
 </resources>
